@@ -1,0 +1,10 @@
+[
+ {
+    "repository": "SalimTerryLi/android_device_samsung_sdm845-common",
+    "target_path": "device/samsung/sdm845-common"
+  },
+ {
+    "repository": "SalimTerryLi/android_kernel_samsung_sdm845",
+    "target_path": "kernel/samsung/sdm845"
+  },
+]
